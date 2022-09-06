@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusvlr&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusvlr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrusvlr" alt="cyrusvlr" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cyrusvlr" target="blank"><img src="https://img.shields.io/twitter/follow/cyrusvlr?logo=twitter&style=for-the-badge" alt="cyrusvlr" /></a> </p>
 
 - 🔭 I’m currently working on **finishing my degree in BS Computer Science**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and Python**
 
-- 🤝 I’m looking for help with **career and professional advice from security experts**
+- 🤝 I’m looking for help with **career and professional advice from experienced developers**
 
-- 👀 I am interested in **cybersecurity, cloud computing, and DevOps**
+- 👀 I am interested in **cloud computing and software development**
 
 - ⚡ Fun fact **I wanted to pursue medicine before I decided to take up computer science**
 
