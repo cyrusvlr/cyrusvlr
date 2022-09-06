@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyrus Vilar</h1>
-<h3 align="center">An aspiring security professional from the Philippines</h3>
+<h3 align="center">An aspiring front end engineer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusvlr&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusvlr" /> </p>
 
