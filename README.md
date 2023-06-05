@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cyrus Vilar</h1>
-<h3 align="center">An aspiring front end engineer from the Philippines</h3>
+<h3 align="center">An aspiring software engineer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusvlr&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusvlr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cyrusvlr" target="blank"><img src="https://img.shields.io/twitter/follow/cyrusvlr?logo=twitter&style=for-the-badge" alt="cyrusvlr" /></a> </p>
 
-- 🔭 I’m currently working on **finishing my degree in BS Computer Science**
+- 🔭 I’m currently working on **finishing my degree in BS Information Technology**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and Python**
+- 🌱 I’m currently learning **web development**
 
 - 🤝 I’m looking for help with **career and professional advice from experienced developers**
 
